@@ -1,0 +1,20 @@
+{
+  "name": "capture-the-flag",
+  "version": "1.0.0",
+  "description": "A modern, responsive website for the CyberQuest 2025 Capture The Flag (CTF) competition. The website features a dark cyberpunk theme with anime-inspired visuals, interactive elements, and dynamic animations.",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1"
+  }
+}
